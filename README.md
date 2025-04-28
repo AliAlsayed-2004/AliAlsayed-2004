@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Ali Alsayed!  
 
-I am a **Full-Stack Developer** specializing in building dynamic websites and applications using **HTML, CSS, JavaScript, Bootstrap, PHP, Python, and Java**. Additionally, I am studying **Cybersecurity Engineering** and working as an **Ethical Hacker**, focusing on **penetration testing for websites and applications** to identify vulnerabilities and enhance security.  
+I am a **Websites Developer** specializing in building dynamic websites and applications using **HTML, CSS, JavaScript, Bootstrap, PHP, Python, and Java**. Additionally, I am studying **Cybersecurity Engineering** and working as an **Ethical Hacker**, focusing on **penetration testing for websites and applications** to identify vulnerabilities and enhance security.  
 
 ---
 
