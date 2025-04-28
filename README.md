@@ -1,4 +1,4 @@
-# Ali Alsayed - Full-Stack Developer | Cybersecurity Engineer | Ethical Hacker  
+# Ali Alsayed - Python Developer | Cybersecurity Engineer | Ethical Hacker  
 
 ## 👋 Hello, I'm Ali Alsayed!  
 
@@ -8,7 +8,6 @@ I am a **Full-Stack Developer** specializing in building dynamic websites and ap
 
 ## 🚀 Skills & Expertise  
 
-- **💻 Web Development:** Designing and developing interactive websites using the latest technologies.  
 - **🔐 Cybersecurity:** Performing penetration testing for websites and applications to strengthen security.  
 - **📊 Database Management:** Designing and developing robust databases using **MySQL and PostgreSQL**.  
 - **🐍 Scripting & Automation:** Writing professional **Python** scripts to optimize workflows and automate tasks.  
