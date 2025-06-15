@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F720&width=435&lines=Coding+In+Progress...)](https://git.io/typing-svg)
 # 💫 About Me:
 Hi, I'm Ali Alsayed — a passionate Web Developer and Cybersecurity Engineer with a strong background in building dynamic websites and applications using technologies like HTML, CSS, JavaScript, Bootstrap, PHP, Python, and Java.<br><br>Currently pursuing Cybersecurity Engineering, I specialize in penetration testing for websites and applications, identifying vulnerabilities, and helping organizations strengthen their security posture.
 
