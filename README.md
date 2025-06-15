@@ -1,6 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F720&width=435&lines=Coding+In+Progress...)](https://git.io/typing-svg)
 # 💫 About Me:
-Hi, I'm Ali Alsayed — a passionate Web Developer and Cybersecurity Engineer with a strong background in building dynamic websites and applications using technologies like HTML, CSS, JavaScript, Bootstrap, PHP, Python, and Java.<br><br>Currently pursuing Cybersecurity Engineering, I specialize in penetration testing for websites and applications, identifying vulnerabilities, and helping organizations strengthen their security posture.
+I'm a Python-centric **Web Developer** and **Cybersecurity Engineer** who loves automating the web and building smart, secure tools.
+
+🔧 My core focus is on:
+- ⚙️ **Web Automation** using Python (requests, Selenium, BeautifulSoup, Playwright)
+- 🌐 **API Integration** and scripting workflows
+- 🧠 Writing clean, efficient, and reusable Python code
+- 🔐 Web application **penetration testing** and vulnerability discovery
+
+---
+
+💻 While I’ve worked with HTML, CSS, JavaScript, PHP, and Java, my real strength lies in using **Python** to:
+- Automate repetitive tasks
+- Scrape and process data from the web
+- Build backend scripts that connect and communicate with APIs
+- Secure systems through script-based testing
+
+🎓 I'm currently studying **Cybersecurity Engineering**, with a passion for ethical hacking and building secure-by-design systems.
 
 
 ## 🌐 Socials:
