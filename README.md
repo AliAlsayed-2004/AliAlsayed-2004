@@ -20,7 +20,7 @@ I'm a Python-centric **Web Developer** and **Cybersecurity Engineer** who loves 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aloosh.n3n3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alsayed-cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisalsayed.business@outlook.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aloosh.n3n3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alsayed-cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisalsayed.business@outlook.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Jumpy-Might-8403/)[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devto&logoColor=white)](https://dev.to/aloosh-2004)
 
 # 💻 Skills:
 <p align="left">
